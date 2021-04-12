@@ -7,3 +7,17 @@ $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 382003C2C8B7B4AB
 $ sudo apt install systemback</pre>
 
 
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX1.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX2.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX3.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX4.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX5.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX6.png" alt="EFX-Tv">
+  
+<a href="https://www.youtube.com/channel/UCIWHXkNEHsedIz62jUJwAew"><img width="1920" src="https://github.com/efxtv/Reset-Restore-Linux/blob/main/Ubuntu/RESTORE-LINUX7.png" alt="EFX-Tv">
+
